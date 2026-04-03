@@ -51,3 +51,8 @@ To improve sales:
 
 Images:
 <img width="889" height="750" alt="Screenshot 2026-04-03 214809" src="https://github.com/user-attachments/assets/88debd03-5489-423b-bf2a-a95799dad7c0" />
+
+<img width="1852" height="511" alt="Screenshot 2026-04-03 214920" src="https://github.com/user-attachments/assets/869c8782-3a45-4c0d-bdf8-87401696ce16" />
+
+<img width="1845" height="597" alt="Screenshot 2026-04-03 214936" src="https://github.com/user-attachments/assets/a1ca58af-da0f-40b0-9ca1-bd04c2f5d312" />
+
